@@ -26,7 +26,11 @@ Control a PacMan image to simulate the PacMan moving across the screen and rever
 <!-- Video -->
 <a name="video"></a>
 ## Simulation Video
+https://user-images.githubusercontent.com/48660555/134378880-666a72f9-2096-49b9-b91f-a252f920952b.mp4
 
+<!-- Link Live Demo -->
+## Link Live Demo
+[Live Pacman Factory]( https://ivanfernandezgracia.github.io/pacman-excercies/)
 
 <!-- CONTACT -->
 <a name="conta"></a>
