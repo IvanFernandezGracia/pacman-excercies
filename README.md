@@ -2,7 +2,7 @@
 
 <!-- DESCRIPTION -->
 ## Description
-Control a PacMan image to simulate the PacMan moving across the screen and reversing direction. This exercise will help you learn how to control the Document Object Model or DOM. A web page is created that produces a PacMan at the click of a button using Javascript matrix functions and techniques to manipulate the DOM.
+Controls the images of multiple PacMan's by parasimulating their movement in the window and reversing the direction. A web page is created that produces multiple PacMan when a button is clicked. Use JavaScript functions array and techniques to manipulate the Document Object Model or DOM. 
 
 <!-- RUN -->
 ## How to Run
