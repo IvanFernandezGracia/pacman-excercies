@@ -2,7 +2,7 @@
 
 <!-- DESCRIPTION -->
 ## Description
-Controls the images of multiple PacMan's by parasimulating their movement in the window and reversing the direction. A web page is created that produces multiple PacMan when a button is clicked. Use JavaScript functions array and techniques to manipulate the Document Object Model or DOM. 
+Controls the images of multiple PacMan's by simulating their movement in the window and reversing the direction. A web page is created that produces multiple PacMan when a button is clicked. Use JavaScript functions array and techniques to manipulate the Document Object Model or DOM. 
 
 <!-- RUN -->
 ## How to Run
